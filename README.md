@@ -1,5 +1,7 @@
 # Tactile DTMF
-This is the repository for "Flexible and scalable asynchronous tactile sensing e-skins through dual-tone multi-frequency encoding" and contains:
+This is the repository for "Analog Dual-Tone Multi-Frequency Signaling for Scalable Tactile Skin with Automatic Data Compression and a Single-Wire Output" and contains:
 1. The PCB design
-2. Texture palpation data
-3. Multi-touch error correction algorithm
+2. Data Collection - Collects sensor data from the hardware setup.
+3. Data Visualization - Visualizes sensor data.
+4. Classification - Classifies objects based on the aDTMF and raster-scanned sensor data. Visualizes the classification results. 
+5. Classification Speed Comparison - Compares the classification speed of aDTMF sensor versus raster-scanned sensor. 
